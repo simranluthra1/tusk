@@ -5,10 +5,19 @@ Git prog
 GIT Lab
 Bit bucket
 
+
 ansible
 docker
+
+kubernetes
+
 
 thanks!!!!!
 
 
+
 Done my changes
+
+
+Final Copy
+
